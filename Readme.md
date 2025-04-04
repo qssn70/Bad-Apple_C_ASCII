@@ -13,3 +13,6 @@
 [PlaySound](https://learn.microsoft.com/zh-cn/windows/win32/multimedia/using-playsound-to-play-system-sounds)  
 
 骑士斯诺70 2025年3月8日  
+
+## 4月4日更新：
+本想作为一个比赛作品的，但是没想到竟然没有高中组(ó﹏ò｡)
